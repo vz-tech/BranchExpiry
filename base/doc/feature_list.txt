@@ -1,0 +1,10 @@
+# This file lists all feature branches that have been merged into this branch
+# Merge conflicts should always accept both sides of the conflict
+# The format is: <feature-name>:<revision>:<secs-since-epoch>
+test1:1
+1est2:1
+test3:3
+test4
+test5:1
+test6:323423:234234:234234:3234234
+test7
